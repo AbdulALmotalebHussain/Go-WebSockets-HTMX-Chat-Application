@@ -1,1 +1,1 @@
-# chat
+# Go WebSockets & HTMX Chat Application
